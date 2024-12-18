@@ -1,3 +1,16 @@
+# 모닝 페이지 앱
+
+### 요구사항
+
+- 글 지우기 기능 없음 (수정도 불가)
+- 내가 쓴 글이 보이지 않게 / 마지막 작성한 몇글자만 보이게?
+- 저장한 글이 일정 기간 (1주일) 동안 안보임
+- 웹에서 확인 가능하게 (추후)
+- 구글 드라이브등 클라우드에 저장
+- 앱 우선. 웹 추가
+- 실행해서 위로 쓸어올리면 바로 메모
+- 다크모드 / 라이트모드 전환
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
